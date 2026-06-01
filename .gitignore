@@ -1,0 +1,7 @@
+# Exclude heavy binary materials
+**/*.mp4
+**/*.pdf
+**/Materials/*.mp4
+**/Materials/*.pdf
+**/Materials/**/*.mp4
+**/Materials/**/*.pdf
